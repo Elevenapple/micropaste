@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://micropaste.elevenapple.dev/sitemap.xml
