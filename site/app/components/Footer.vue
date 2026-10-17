@@ -8,7 +8,8 @@ const columns = [
     title: 'More projects',
     links: [
       { label: 'Harmonix', to: 'https://github.com/harmonix-js/harmonix' },
-      { label: 'Pmdr', to: 'https://pmdr.elevenapple.dev' }
+      { label: 'Pmdr', to: 'https://pmdr.elevenapple.dev' },
+      { label: 'Pigeon REST', to: 'https://pigeon.elevenapple.dev' }
     ]
   }
 ]
