@@ -26,12 +26,12 @@ serde_json = "1"
 window-vibrancy = "0.8.1"
 clipboard-master = { version = "4", default-features = false }
 arboard = { version = "3", default-features = false, features = ["image-data"] }
-rusqlite = { version = "0.40", features = ["bundled"] }
+rusqlite = { version = "0.41", features = ["bundled"] }
 png = "0.18.1"
 base64 = "0.23.1"
 blake3 = "1.8.7"
 reqwest = { version = "0.13", default-features = false, features = ["native-tls", "charset", "http2"] }
-scraper = "0.27"
+scraper = "0.29"
 url = "2"
 drag = "2.1.1"
 tauri-plugin-autostart = "2.7.0"
